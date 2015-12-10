@@ -1,0 +1,3 @@
+GET    /            home
+GET    /list        list
+GET    /list/:id    item
